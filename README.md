@@ -1,6 +1,6 @@
 ## Hi, I'm Bartek👋
 
-### I'm product-focused fullstack engineer.
+### I'm a product-focused fullstack engineer.
 
 - 🗣️ fluent in English and Polish
 - 🚀 experienced in java, python and react
