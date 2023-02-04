@@ -1,6 +1,4 @@
-### Hi, I'm Bartek👋
-
-***
+## Hi, I'm Bartek👋
 
 ### I'm product-focused fullstack engineer.
 
