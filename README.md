@@ -16,7 +16,7 @@ Some of the technologies that I used:
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS" style="height: 25px; width: auto;"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" style="height: 25px; width: auto;"/>
 <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" alt="Webpack" style="height: 25px; width: auto;"/>
-<img src="https://openjsf.org/wp-content/uploads/sites/84/2022/05/jest.svg" alt="Jest" style="height: 25px; width: auto;"/>
+<img src="https://www.svgrepo.com/download/353930/jest.svg" alt="Jest" style="height: 25px; width: auto;"/>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/262px-Java_programming_language_logo.svg.png" alt="Java" style="height: 25px; width: auto;"/>
 <img src="https://avatars.githubusercontent.com/u/1483254?s=280&v=4" alt="MyBatis" style="height: 25px; width: auto;"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png" alt="Spring" style="height: 25px; width:60px;"/>
