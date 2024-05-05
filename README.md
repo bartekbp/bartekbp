@@ -5,8 +5,6 @@
 - 🗣️ fluent in English and Polish
 - 🚀 experienced in java, python and react
 - ❤️ love delightful to use apps and 🏹 aims to create them
-- 🌱 learning sqlalchemy 2.0 and react-hook-form at the moment
-- ⚽ FC Barcelona fan 🏃Amateur runner and 📽️ Movie lover
 
 Some of the technologies that I used:
 <div style="display: flex; gap: 10px; flex-wrap: wrap">
