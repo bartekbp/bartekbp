@@ -3,8 +3,8 @@
 ### I'm a product-focused fullstack engineer.
 
 - 🗣️ fluent in English and Polish
-- 🚀 experienced in java, python and react
-- ❤️ loves delightful to use apps and 🏹 aims to create them
+- 🚀 experienced in java, node and react
+- ❤️ loves delightful to use apps
 
 Some of the technologies that I used:
 <div style="display: flex; gap: 10px; flex-wrap: wrap">
