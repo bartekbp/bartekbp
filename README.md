@@ -24,7 +24,7 @@ I build delightful, user-centered applications with scalable architectures
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Database & Data
+### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Cloud & DevOps
@@ -40,3 +40,7 @@ I'm passionate about building software that solves real problems. With experienc
 - 🧩 Clean, maintainable code architecture
 - 🔄 Continuous learning and improvement
 - 🤝 Collaborative, cross-functional teamwork
+
+### Currently Exploring
+- 🚀 [Remix](https://remix.run/) for unified full-stack development without traditional API layers
+- 📖 [Cursor](https://cursor.so/) editor for AI-enhanced web development workflow and productivity
