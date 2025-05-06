@@ -1,32 +1,42 @@
-## Hi, I'm Bartek👋
+# 👋 Hi, I'm Bartek
 
-### I'm a product-focused fullstack engineer.
+## Product-Focused Fullstack Engineer
+I build delightful, user-centered applications with scalable architectures
 
-- 🗣️ fluent in English and Polish
-- 🚀 experienced in java, node and react
-- ❤️ loves delightful to use apps
+```
+🗣️ Languages: English, Polish
+🏢 Focus: Product Development
+💻 Core: Node.js, React, Java
+```
 
-Some of the technologies that I used:
-<div style="display: flex; gap: 10px; flex-wrap: wrap">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" style="height: 25px; width:auto;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" style="height: 25px; width: auto;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript" style="height: 25px; width: auto;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS" style="height: 25px; width: auto;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" style="height: 25px; width: auto;"/>
-<img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" alt="Webpack" style="height: 25px; width: auto;"/>
-<img src="https://www.svgrepo.com/download/353930/jest.svg" alt="Jest" style="height: 25px; width: auto;"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/262px-Java_programming_language_logo.svg.png" alt="Java" style="height: 25px; width: auto;"/>
-<img src="https://avatars.githubusercontent.com/u/1483254?s=280&v=4" alt="MyBatis" style="height: 25px; width: auto;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png" alt="Spring" style="height: 25px; width:60px;"/>
-<img src="https://raw.githubusercontent.com/spockframework/spock-logo/main/Spock-Brand-Materials/logos/primary/spock-main-logo.png" alt="Spock" style="height: 25px; width: auto;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="height: 25px; width: auto;"/>
-<img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLAlchemy" style="height: 25px; width: auto;"/>
-<img src="https://avatars.githubusercontent.com/u/48071860?s=200&v=4" alt="Strawberry GraphQL" style="height: 25px; width: auto;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" style="height: 25px; width: auto;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Erlang_logo.svg" alt="Erlang" style="height: 25px; width: auto;"/>
-<img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="Terraform" style="height: 25px; width: auto;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" style="height: 25px; width: auto;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" alt="Elasticsearch" style="height: 25px; width: auto;"/>
-</div>
+## Skills & Technologies
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](#)
 
 
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Database & Data
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+## About Me
+
+I'm passionate about building software that solves real problems. With experience across the full development stack, I focus on creating applications that are not only technically excellent but also delightful to use.
+
+### What I Value
+- 🎯 Products that solve real user problems
+- 🧩 Clean, maintainable code architecture
+- 🔄 Continuous learning and improvement
+- 🤝 Collaborative, cross-functional teamwork
